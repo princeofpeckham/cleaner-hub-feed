@@ -22,8 +22,8 @@ Marylebone High Street — The Modern Store,3 Paddington Street,W1U 5QD,Hot Choc
 Bethnal Green Road - The Corner Space,123 Bethnal Green Road,E2 7DG,Adhominem,2025-12-08,2025-12-14,73-3E-53
 Eastcastle Street - The Grand Store,36 Eastcastle Street,W1W 8DP,Rye Artiste Pop Up,2025-12-03,2025-12-15,9F-1B-09
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Discotheque,2025-12-10,2025-12-15,BA-EB-C5
-"Portobello Road, Notting Hill – The White Arcade Shop",Unit 25 281 Portobello Road,W10 5TZ,700QiBai Space,2025-11-13,2025-12-15,D7-1D-4E
-"Portobello Road, Notting Hill – The White Arcade Shop",Unit 25 281 Portobello Road,W10 5TZ,700QiBai Space,2025-12-16,2025-12-17,1D-56-70
+"Portobello Road, Notting Hill – The White Arcade Shop",Unit 25 281 Portobello Road,W10 5TZ,QiBai Space,2025-11-13,2025-12-15,D7-1D-4E
+"Portobello Road, Notting Hill – The White Arcade Shop",Unit 25 281 Portobello Road,W10 5TZ,QiBai Space,2025-12-16,2025-12-17,1D-56-70
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Unity Coffee Launch,2025-12-16,2025-12-18,67-D4-B0
 "Portobello Road, Notting Hill – The White Arcade Shop",Unit 25 281 Portobello Road,W10 5TZ,Angelo's Archives,2025-12-19,2025-12-20,5D-17-4A
 "Kingsland Road, Dalston - The Raw Glass Shop",259 Kingsland Road,E2 8AS,cheongsam pop up,2025-10-24,2025-12-21,C1-2E-48
@@ -79,8 +79,8 @@ The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,99 by jms ltd,2026-03-13
 "Brick Lane, Shoreditch - The Retro Studio",228 Brick Lane,E2 7EE,MURA STUDIO,2026-03-21,2026-03-22,0F-56-98
 "The Black & White Soho Shop, Greek Street",59 Greek Street,W1D 3DZ,An Exclusive Sample Sale,2026-03-24,2026-03-26,CF-20-D8
 "Bateman Street, Soho - The Gallery",15 Bateman Street,W1D 3AQ,Yardsale,2026-03-26,2026-03-26,7A-CA-2A
-"The Sidings, Waterloo — The Retail Strip Space (UG08)",UG08 The Sidings Waterloo,SE1 7LY,Stretch Life,2026-03-20,2026-03-26,31-C0-54
 "The Sidings, Waterloo — The Retail Strip Space (UG08)",UG08 The Sidings Waterloo,SE1 7LY,Stretch Life,2026-03-20,2026-03-26,DE-0F-C3
+"The Sidings, Waterloo — The Retail Strip Space (UG08)",UG08 The Sidings Waterloo,SE1 7LY,Stretch Life,2026-03-20,2026-03-26,31-C0-54
 "The Black & White Soho Shop, Greek Street",59 Greek Street,W1D 3DZ,An Exclusive Sample Sale,2026-03-27,2026-03-27,E7-44-E8
 "Brick Lane, Shoreditch - The Retro Studio",228 Brick Lane,E2 7EE,Fruity Booty Sample Sale,2026-03-26,2026-03-29,AB-6A-01
 "Bateman Street, Soho - The Gallery",15 Bateman Street,W1D 3AQ,Yardsale,2026-03-27,2026-03-29,42-73-DE
@@ -172,18 +172,23 @@ The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,It's Girls Powder,2026-0
 "The Black & White Soho Shop, Greek Street",59 Greek Street,W1D 3DZ,Minka Dink London,2026-06-22,2026-07-13,03-8D-19
 "Monmouth Street, Covent Garden - Black Front Boutique",6 Monmouth Street,WC2H 9HB,Akiture London,2026-07-08,2026-07-13,CE-4D-80
 "Hay Hill, Mayfair - The Parquet Store",14A Hay Hill,W1J 8NZ,L.R GRANDDAUGHTERS,2026-07-16,2026-07-17,E1-8C-98
-"Monmouth Street, Covent Garden - Black Front Boutique",6 Monmouth Street,WC2H 9HB,Dye Lab,2026-07-14,2026-07-20,CC-17-38
+"The Sidings, Waterloo — The Retail Space (UG07)",UG07 The Sidings Waterloo,SE1 7LY,K-pop Korner London,2026-07-13,2026-07-19,3D-E0-61
 "The Black & White Soho Shop, Greek Street",59 Greek Street,W1D 3DZ,33-mm,2026-07-14,2026-07-20,C8-79-F4
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Motornio,2026-07-08,2026-07-20,AD-83-53
+"Monmouth Street, Covent Garden - Black Front Boutique",6 Monmouth Street,WC2H 9HB,Dye Lab,2026-07-14,2026-07-20,CC-17-38
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Pepsi Ice Cream Parlour,2026-07-21,2026-07-21,C4-BC-0C
+"The Black & White Soho Shop, Greek Street",59 Greek Street,W1D 3DZ,Nalas Baby x Latto,2026-07-23,2026-07-24,3C-17-BA
 "Monmouth Street, Covent Garden - Black Front Boutique",6 Monmouth Street,WC2H 9HB,Barbie - Estate Agent Pop Up,2026-07-21,2026-07-27,A6-98-89
+"The Black & White Soho Shop, Greek Street",59 Greek Street,W1D 3DZ,Yutee Rone,2026-07-27,2026-07-27,71-13-DC
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Pepsi Ice Cream Parlour,2026-07-22,2026-07-28,40-BC-1E
 "Monmouth Street, Covent Garden - Black Front Boutique",6 Monmouth Street,WC2H 9HB,Barbie - Estate Agent Pop Up,2026-07-28,2026-07-29,2D-FB-DA
 "The Sidings, Waterloo — The White Box Retail Space (UG11)",UG11 The Sidings Waterloo,SE1 7LY,Animate/ JPT EUROPE LTD,2026-02-01,2026-07-31,47-6F-13
 "Kingsland Road, Shoreditch – The Blue Vintage Shop",17b Kingsland Road,E2 8AA,Junkies,2026-05-06,2026-07-31,2C-56-84
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,ONATERI,2026-07-30,2026-08-02,50-F2-4E
 "Kingsland Road, Dalston - The Raw Glass Shop",259 Kingsland Road,E2 8AS,Big Ez,2026-07-31,2026-08-02,BD-F9-9F
+Eastcastle Street - The Grand Store,36 Eastcastle Street,W1W 8DP,MADE IN LAGOS LTD,2026-08-01,2026-08-02,89-E4-89
 Marylebone High Street — The Modern Store,3 Paddington Street,W1U 5QD,Hunza G,2026-06-01,2026-08-09,64-04-2B
+"Kingsland Road, Dalston - The Raw Glass Shop",259 Kingsland Road,E2 8AS,Molly O'Halloran,2026-08-07,2026-08-09,91-0E-34
 "Monmouth Street, Covent Garden - Black Front Boutique",6 Monmouth Street,WC2H 9HB,Kimar,2026-08-20,2026-08-24,FD-7A-29
 Marylebone High Street — The Modern Store,3 Paddington Street,W1U 5QD,VIXII Lab Diamond Pop Up,2026-08-10,2026-08-24,E1-D5-03
 "Monmouth Street, Covent Garden - Black Front Boutique",6 Monmouth Street,WC2H 9HB,Steadtler Pop Up,2026-08-25,2026-08-25,DD-21-6D
@@ -192,9 +197,10 @@ Marylebone High Street — The Modern Store,3 Paddington Street,W1U 5QD,VIXII La
 Marylebone High Street — The Modern Store,3 Paddington Street,W1U 5QD,Toile eco designers,2026-08-26,2026-08-30,57-89-59
 "Monmouth Street, Covent Garden - Black Front Boutique",6 Monmouth Street,WC2H 9HB,Pushkin Vertigo Pop-Up,2026-08-31,2026-09-06,D5-78-A6
 "The Black & White Soho Shop, Greek Street",59 Greek Street,W1D 3DZ,MOTEL ROCKS,2026-09-01,2026-09-07,4A-66-34
-"Bateman Street, Soho - The Gallery",15 Bateman Street,W1D 3AQ,Bocci,2026-09-11,2026-09-21,FC-05-57
-"Hay Hill, Mayfair - The Parquet Store",14A Hay Hill,W1J 8NZ,Romani Home,2026-09-10,2026-09-21,9B-0D-D3
+"The Black & White Soho Shop, Greek Street",59 Greek Street,W1D 3DZ,Bold Bean Co,2026-09-14,2026-09-20,DA-05-45
 "Monmouth Street, Covent Garden - Black Front Boutique",6 Monmouth Street,WC2H 9HB,Trace Publicity,2026-09-17,2026-09-21,B2-30-4D
+"Hay Hill, Mayfair - The Parquet Store",14A Hay Hill,W1J 8NZ,Romani Home,2026-09-10,2026-09-21,9B-0D-D3
+"Bateman Street, Soho - The Gallery",15 Bateman Street,W1D 3AQ,Bocci,2026-09-11,2026-09-21,FC-05-57
 "Kingsland Road, Dalston - The Raw Glass Shop",259 Kingsland Road,E2 8AS,Scarletti,2026-09-24,2026-09-27,36-32-74
 "Hay Hill, Mayfair - The Parquet Store",14A Hay Hill,W1J 8NZ,Polina Piëch,2026-10-01,2026-10-08,86-73-7F
 "Hay Hill, Mayfair - The Parquet Store",14A Hay Hill,W1J 8NZ,Silverlining,2026-10-09,2026-10-19,EA-8C-8F
