@@ -20,9 +20,9 @@ Bethnal Green Road - The Corner Space,123 Bethnal Green Road,E2 7DG,Adhominem,20
 "Hay Hill, Mayfair - The Parquet Store",14A Hay Hill,W1J 8NZ,Hope Macaulay London Pop-up Shop,2025-12-11,2025-12-14,4E-3A-9C
 "Kingsland Road, Shoreditch – The Blue Vintage Shop",17b Kingsland Road,E2 8AA,LA FETICHE,2025-12-11,2025-12-14,95-39-B0
 "Brick Lane, Shoreditch - The Retro Studio",228 Brick Lane,E2 7EE,Yankee Racers LTD,2025-12-11,2025-12-14,A9-3A-06
-"Portobello Road, Notting Hill – The White Arcade Shop",Unit 25 281 Portobello Road,W10 5TZ,QiBai Space,2025-11-13,2025-12-15,D7-1D-4E
-Eastcastle Street - The Grand Store,36 Eastcastle Street,W1W 8DP,Rye Artiste Pop Up,2025-12-03,2025-12-15,9F-1B-09
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Discotheque,2025-12-10,2025-12-15,BA-EB-C5
+Eastcastle Street - The Grand Store,36 Eastcastle Street,W1W 8DP,Rye Artiste Pop Up,2025-12-03,2025-12-15,9F-1B-09
+"Portobello Road, Notting Hill – The White Arcade Shop",Unit 25 281 Portobello Road,W10 5TZ,QiBai Space,2025-11-13,2025-12-15,D7-1D-4E
 "Portobello Road, Notting Hill – The White Arcade Shop",Unit 25 281 Portobello Road,W10 5TZ,QiBai Space,2025-12-16,2025-12-17,1D-56-70
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Unity Coffee Launch,2025-12-16,2025-12-18,67-D4-B0
 "Portobello Road, Notting Hill – The White Arcade Shop",Unit 25 281 Portobello Road,W10 5TZ,Angelo's Archives,2025-12-19,2025-12-20,5D-17-4A
@@ -78,16 +78,16 @@ The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,99 by jms ltd,2026-03-13
 "The Black & White Soho Shop, Greek Street",59 Greek Street,W1D 3DZ,VORBOSS,2026-03-16,2026-03-21,5E-C2-90
 "Brick Lane, Shoreditch - The Retro Studio",228 Brick Lane,E2 7EE,MURA STUDIO,2026-03-21,2026-03-22,0F-56-98
 "The Black & White Soho Shop, Greek Street",59 Greek Street,W1D 3DZ,An Exclusive Sample Sale,2026-03-24,2026-03-26,CF-20-D8
-"Bateman Street, Soho - The Gallery",15 Bateman Street,W1D 3AQ,Yardsale,2026-03-26,2026-03-26,7A-CA-2A
-"The Sidings, Waterloo — The Retail Strip Space (UG08)",UG08 The Sidings Waterloo,SE1 7LY,Stretch Life,2026-03-20,2026-03-26,DE-0F-C3
 "The Sidings, Waterloo — The Retail Strip Space (UG08)",UG08 The Sidings Waterloo,SE1 7LY,Stretch Life,2026-03-20,2026-03-26,31-C0-54
+"The Sidings, Waterloo — The Retail Strip Space (UG08)",UG08 The Sidings Waterloo,SE1 7LY,Stretch Life,2026-03-20,2026-03-26,DE-0F-C3
+"Bateman Street, Soho - The Gallery",15 Bateman Street,W1D 3AQ,Yardsale,2026-03-26,2026-03-26,7A-CA-2A
 "The Black & White Soho Shop, Greek Street",59 Greek Street,W1D 3DZ,An Exclusive Sample Sale,2026-03-27,2026-03-27,E7-44-E8
-"Bateman Street, Soho - The Gallery",15 Bateman Street,W1D 3AQ,Yardsale,2026-03-27,2026-03-29,42-73-DE
-The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Nonna Tonda,2026-03-23,2026-03-29,4A-00-22
 "Brick Lane, Shoreditch - The Retro Studio",228 Brick Lane,E2 7EE,Fruity Booty Sample Sale,2026-03-26,2026-03-29,AB-6A-01
+The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Nonna Tonda,2026-03-23,2026-03-29,4A-00-22
+"Bateman Street, Soho - The Gallery",15 Bateman Street,W1D 3AQ,Yardsale,2026-03-27,2026-03-29,42-73-DE
 "The Sidings, Waterloo — The Large Front Retail Space (G19)",G19 The Sidings Waterloo,SE1 7LY,Sokollab Limited KPOP pop up experience,2026-03-20,2026-03-30,55-1A-6B
-Bethnal Green Road - The Corner Space,123 Bethnal Green Road,E2 7DG,Nude Lagoon,2026-03-24,2026-03-30,B3-00-74
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Nonna Tonda,2026-03-30,2026-03-30,ED-07-F2
+Bethnal Green Road - The Corner Space,123 Bethnal Green Road,E2 7DG,Nude Lagoon,2026-03-24,2026-03-30,B3-00-74
 "Hay Hill, Mayfair - The Parquet Store",14A Hay Hill,W1J 8NZ,Break Vintage,2026-03-26,2026-03-31,D6-77-A8
 Marylebone High Street — The Modern Store,3 Paddington Street,W1U 5QD,Otiumberg,2026-03-11,2026-04-01,20-50-75
 Marylebone High Street — The Modern Store,3 Paddington Street,W1U 5QD,Serious People,2026-04-02,2026-04-03,6A-80-16
@@ -132,11 +132,11 @@ The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Many Many Clothes Summer
 Eastcastle Street - The Grand Store,36 Eastcastle Street,W1W 8DP,Order and Chaos,2026-05-20,2026-05-20,92-7C-E8
 "The Black & White Soho Shop, Greek Street",59 Greek Street,W1D 3DZ,LEON,2026-05-18,2026-05-21,84-B8-D7
 "Hay Hill, Mayfair - The Parquet Store",14A Hay Hill,W1J 8NZ,MATTEAU | PFW September Showroom,2026-05-18,2026-05-21,9B-B8-4C
-The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Creator Commerce IRL,2026-05-18,2026-05-21,ED-D6-66
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Many Many Clothes Summer Pop Up,2026-05-18,2026-05-21,86-F0-DE
+The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Creator Commerce IRL,2026-05-18,2026-05-21,ED-D6-66
 "The Black & White Soho Shop, Greek Street",59 Greek Street,W1D 3DZ,Starbucks NPD Chocolate stand,2026-05-22,2026-05-23,98-F0-09
-Eastcastle Street - The Grand Store,36 Eastcastle Street,W1W 8DP,Order and Chaos,2026-05-21,2026-05-23,4D-2E-F1
 "Kingsland Road, Dalston - The Raw Glass Shop",259 Kingsland Road,E2 8AS,Ultralight London,2026-05-22,2026-05-23,4E-4C-EB
+Eastcastle Street - The Grand Store,36 Eastcastle Street,W1W 8DP,Order and Chaos,2026-05-21,2026-05-23,4D-2E-F1
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Recovered L,2026-05-22,2026-05-25,DF-FC-35
 "Monmouth Street, Covent Garden - Black Front Boutique",6 Monmouth Street,WC2H 9HB,APR,2026-05-23,2026-05-25,FC-35-E9
 "Hay Hill, Mayfair - The Parquet Store",14A Hay Hill,W1J 8NZ,ANAHITA MADANI EVENT,2026-05-22,2026-05-26,3C-87-2A
@@ -161,8 +161,8 @@ The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Mowalola,2026-06-13,2026
 "Hay Hill, Mayfair - The Parquet Store",14A Hay Hill,W1J 8NZ,By Viktorija,2026-06-16,2026-06-22,E5-08-FA
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Sweats Collective - London Pop-up,2026-06-16,2026-06-22,83-78-21
 "Bateman Street, Soho - The Gallery",15 Bateman Street,W1D 3AQ,One day student pop up,2026-06-24,2026-06-25,AF-A2-0A
-"Bateman Street, Soho - The Gallery",15 Bateman Street,W1D 3AQ,CAPALA,2026-06-26,2026-06-28,61-92-F4
 "Hay Hill, Mayfair - The Parquet Store",14A Hay Hill,W1J 8NZ,DELAR Exhbition,2026-06-26,2026-06-28,75-2D-57
+"Bateman Street, Soho - The Gallery",15 Bateman Street,W1D 3AQ,CAPALA,2026-06-26,2026-06-28,61-92-F4
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,RPM - Beauty Pop Up,2026-06-24,2026-06-29,17-1F-73
 "Monmouth Street, Covent Garden - Black Front Boutique",6 Monmouth Street,WC2H 9HB,Olive Oil Pop Up,2026-06-01,2026-06-30,D8-14-08
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Be stream tech shop,2026-06-30,2026-07-02,B3-27-CA
@@ -191,8 +191,8 @@ The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Pepsi Ice Cream Parlour,
 "Kingsland Road, Shoreditch – The Blue Vintage Shop",17b Kingsland Road,E2 8AA,Junkies,2026-05-06,2026-07-31,2C-56-84
 "The Sidings, Waterloo — The White Box Retail Space (UG11)",UG11 The Sidings Waterloo,SE1 7LY,Animate/ JPT EUROPE LTD,2026-02-01,2026-07-31,47-6F-13
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,ONATERI,2026-07-30,2026-08-02,50-F2-4E
-"Kingsland Road, Dalston - The Raw Glass Shop",259 Kingsland Road,E2 8AS,Big Ez,2026-07-31,2026-08-02,BD-F9-9F
 Eastcastle Street - The Grand Store,36 Eastcastle Street,W1W 8DP,MADE IN LAGOS LTD,2026-08-01,2026-08-02,89-E4-89
+"Kingsland Road, Dalston - The Raw Glass Shop",259 Kingsland Road,E2 8AS,Big Ez,2026-07-31,2026-08-02,BD-F9-9F
 "The Sidings, Waterloo — The Retail Space (UG07)",UG07 The Sidings Waterloo,SE1 7LY,K-pop Korner London,2026-08-01,2026-08-03,0C-BD-68
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Liquid Brands,2026-08-03,2026-08-07,77-9E-A7
 Marylebone High Street — The Modern Store,3 Paddington Street,W1U 5QD,Hunza G,2026-06-01,2026-08-09,64-04-2B
@@ -207,8 +207,8 @@ Marylebone High Street — The Modern Store,3 Paddington Street,W1U 5QD,Hunza G,
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,SENSET: The K-Beauty Winter Edit,2026-08-19,2026-08-22,CC-9F-C5
 "The Sidings, Waterloo — The White Box Retail Space (UG11)",UG11 The Sidings Waterloo,SE1 7LY,Animate/ JPT EUROPE LTD,2026-08-01,2026-08-22,3E-7E-86
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,SENSET: The K-Beauty Winter Edit,2026-08-19,2026-08-22,0F-17-34
-"Hay Hill, Mayfair - The Parquet Store",14A Hay Hill,W1J 8NZ,Eiloni Apartment London,2026-08-20,2026-08-23,14-73-B2
 "Bateman Street, Soho - The Gallery",15 Bateman Street,W1D 3AQ,Social Snacking House,2026-08-21,2026-08-23,9C-F9-26
+"Hay Hill, Mayfair - The Parquet Store",14A Hay Hill,W1J 8NZ,Eiloni Apartment London,2026-08-20,2026-08-23,14-73-B2
 Marylebone High Street — The Modern Store,3 Paddington Street,W1U 5QD,VIXII Lab Diamond Pop Up,2026-08-10,2026-08-24,E1-D5-03
 "The Black & White Soho Shop, Greek Street",59 Greek Street,W1D 3DZ,Sisterhood & Bound Sample Sale,2026-08-20,2026-08-24,14-3B-71
 "Monmouth Street, Covent Garden - Black Front Boutique",6 Monmouth Street,WC2H 9HB,Kimar,2026-08-20,2026-08-24,FD-7A-29
@@ -236,9 +236,9 @@ The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,MANY MANY CLOTHES LTD,20
 "Monmouth Street, Covent Garden - Black Front Boutique",6 Monmouth Street,WC2H 9HB,Lethe Showroom,2026-09-14,2026-09-16,5B-5F-BC
 Albemarle Street - The Mayfair Boutique,48 Albemarle Street,W1S 4JW,Magazine - Exhibition,2026-09-16,2026-09-16,DB-C5-1A
 "The Black & White Soho Shop, Greek Street",59 Greek Street,W1D 3DZ,Bold Bean Co,2026-09-14,2026-09-20,DA-05-45
-"Bateman Street, Soho - The Gallery",15 Bateman Street,W1D 3AQ,Bocci,2026-09-11,2026-09-21,FC-05-57
-"Kingsland Road, Shoreditch – The Blue Vintage Shop",17b Kingsland Road,E2 8AA,The stockroom,2026-09-11,2026-09-21,B1-25-4A
 "Hay Hill, Mayfair - The Parquet Store",14A Hay Hill,W1J 8NZ,Romani Home,2026-09-10,2026-09-21,9B-0D-D3
+"Kingsland Road, Shoreditch – The Blue Vintage Shop",17b Kingsland Road,E2 8AA,The stockroom,2026-09-11,2026-09-21,B1-25-4A
+"Bateman Street, Soho - The Gallery",15 Bateman Street,W1D 3AQ,Bocci,2026-09-11,2026-09-21,FC-05-57
 "Monmouth Street, Covent Garden - Black Front Boutique",6 Monmouth Street,WC2H 9HB,Trace Publicity,2026-09-17,2026-09-21,B2-30-4D
 Fitzrovia – Great Titchfield Street Gallery,67 Great Titchfield Street,W1W 7PT,Karen Millen,2026-09-21,2026-09-23,C2-C6-C6
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,personsoul,2026-09-14,2026-09-24,FA-BE-7C
@@ -248,17 +248,19 @@ The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,Moth hackathon,2026-09-2
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,GORE-TEX 50th Anniversary Pop-Up,2026-09-29,2026-10-05,6A-88-6B
 "Hay Hill, Mayfair - The Parquet Store",14A Hay Hill,W1J 8NZ,Polina Piëch,2026-10-01,2026-10-08,86-73-7F
 "The Black & White Soho Shop, Greek Street",59 Greek Street,W1D 3DZ,VORBOSS,2026-09-29,2026-10-09,C0-87-92
+"Monmouth Street, Covent Garden - Black Front Boutique",6 Monmouth Street,WC2H 9HB,Stripe and Stare,2026-10-13,2026-10-14,9D-40-1F
 "Hay Hill, Mayfair - The Parquet Store",14A Hay Hill,W1J 8NZ,Silverlining,2026-10-09,2026-10-19,EA-8C-8F
 "Hay Hill, Mayfair - The Parquet Store",14A Hay Hill,W1J 8NZ,Art by Shree,2026-10-20,2026-10-20,07-7E-39
 Albemarle Street - The Mayfair Boutique,48 Albemarle Street,W1S 4JW,DAPY London Expo,2026-10-22,2026-10-22,70-94-73
 "Hay Hill, Mayfair - The Parquet Store",14A Hay Hill,W1J 8NZ,L'Feith London Pop-Up,2026-10-21,2026-10-25,92-8E-D1
 The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,OYB press launch / Pop Up,2026-10-22,2026-10-25,58-00-70
-Albemarle Street - The Mayfair Boutique,48 Albemarle Street,W1S 4JW,Wyldsneaks,2026-10-24,2026-10-26,9D-94-88
 Marylebone High Street — The Modern Store,3 Paddington Street,W1U 5QD,THEGATHER Shop,2026-10-14,2026-10-26,CA-E8-BF
-"Bateman Street, Soho - The Gallery",15 Bateman Street,W1D 3AQ,Halloween Pop Up / Virgin Media,2026-10-27,2026-11-02,01-A8-95
+Albemarle Street - The Mayfair Boutique,48 Albemarle Street,W1S 4JW,Wyldsneaks,2026-10-24,2026-10-26,9D-94-88
 Marylebone High Street — The Modern Store,3 Paddington Street,W1U 5QD,Ray Atelier - Travel Sweden,2026-10-27,2026-11-02,9B-51-40
+"Bateman Street, Soho - The Gallery",15 Bateman Street,W1D 3AQ,Halloween Pop Up / Virgin Media,2026-10-27,2026-11-02,01-A8-95
 "Monmouth Street, Covent Garden - Black Front Boutique",6 Monmouth Street,WC2H 9HB,Memree,2026-11-03,2026-11-09,9F-93-30
 Albemarle Street - The Mayfair Boutique,48 Albemarle Street,W1S 4JW,luxury multi-brand fashion store,2026-11-04,2026-11-11,9A-68-2A
+The Designer Boutique - Soho,19 D'Arblay Street,W1F 8ED,RIXO,2026-11-10,2026-11-15,B7-88-69
 Albemarle Street - The Mayfair Boutique,48 Albemarle Street,W1S 4JW,SENSET: The K-Beauty Winter Edit,2026-11-12,2026-11-16,92-9F-98
 Eastcastle Street - The Grand Store,36 Eastcastle Street,W1W 8DP,CARE International charity pop up,2026-11-18,2026-11-20,75-7C-71
 "Hay Hill, Mayfair - The Parquet Store",14A Hay Hill,W1J 8NZ,Linda Farrow,2026-11-23,2026-11-29,B4-72-F0
